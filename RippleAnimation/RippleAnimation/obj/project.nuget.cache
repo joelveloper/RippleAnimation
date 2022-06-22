@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "QHdvkBW6Zqte3B7Ua6p7aSwGRNqnKfouI3Gp7YC8V0AI95mzTsYLjB/HGTn4NSyQ+1IKFpoOn7Z0lQD1au3H3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joel\\source\\repos\\RippleAnimation\\RippleAnimation\\RippleAnimation\\RippleAnimation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\joel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\joel\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\joel\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\joel\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

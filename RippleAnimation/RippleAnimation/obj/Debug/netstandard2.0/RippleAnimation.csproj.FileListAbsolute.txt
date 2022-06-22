@@ -1,0 +1,16 @@
+C:\Users\joel\source\repos\RippleAnimation\RippleAnimation\RippleAnimation\bin\Debug\netstandard2.0\RippleAnimation.deps.json
+C:\Users\joel\source\repos\RippleAnimation\RippleAnimation\RippleAnimation\bin\Debug\netstandard2.0\RippleAnimation.dll
+C:\Users\joel\source\repos\RippleAnimation\RippleAnimation\RippleAnimation\bin\Debug\netstandard2.0\RippleAnimation.pdb
+C:\Users\joel\source\repos\RippleAnimation\RippleAnimation\RippleAnimation\obj\Debug\netstandard2.0\RippleAnimation.csproj.AssemblyReference.cache
+C:\Users\joel\source\repos\RippleAnimation\RippleAnimation\RippleAnimation\obj\Debug\netstandard2.0\RippleAnimation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joel\source\repos\RippleAnimation\RippleAnimation\RippleAnimation\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\joel\source\repos\RippleAnimation\RippleAnimation\RippleAnimation\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\joel\source\repos\RippleAnimation\RippleAnimation\RippleAnimation\obj\Debug\netstandard2.0\RippleAnimation.AssemblyInfoInputs.cache
+C:\Users\joel\source\repos\RippleAnimation\RippleAnimation\RippleAnimation\obj\Debug\netstandard2.0\RippleAnimation.AssemblyInfo.cs
+C:\Users\joel\source\repos\RippleAnimation\RippleAnimation\RippleAnimation\obj\Debug\netstandard2.0\RippleAnimation.csproj.CoreCompileInputs.cache
+C:\Users\joel\source\repos\RippleAnimation\RippleAnimation\RippleAnimation\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\joel\source\repos\RippleAnimation\RippleAnimation\RippleAnimation\obj\Debug\netstandard2.0\RippleAnimation.dll
+C:\Users\joel\source\repos\RippleAnimation\RippleAnimation\RippleAnimation\obj\Debug\netstandard2.0\refint\RippleAnimation.dll
+C:\Users\joel\source\repos\RippleAnimation\RippleAnimation\RippleAnimation\obj\Debug\netstandard2.0\RippleAnimation.pdb
+C:\Users\joel\source\repos\RippleAnimation\RippleAnimation\RippleAnimation\obj\Debug\netstandard2.0\ref\RippleAnimation.dll
+C:\Users\joel\source\repos\RippleAnimation\RippleAnimation\RippleAnimation\obj\Debug\netstandard2.0\Views\CircleAnimationPage.xaml.g.cs

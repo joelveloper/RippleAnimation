@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="RippleAnimation.Views.MainPage"
+             NavigationPage.HasNavigationBar="False">
+    <ContentPage.Content>
+        <Grid RowDefinitions="auto, *, auto"
+              RowSpacing="0">
+            <StackLayout x:Name="ToolBar"
+                         BackgroundColor="#2096F3"
+                         Padding="15">
+                <Label Text="Ripple Animation in Xamarin Forms"
+                       TextColor="White"
+                       FontSize="Medium"
+                       FontAttributes="Bold"
+                       HorizontalOptions="Center"/>
+            </StackLayout>
+            <Label Text="Principal Page"
+                   TextColor="Black"
+                   FontSize="Title"
+                   FontAttributes="Bold"
+                   CharacterSpacing="1"
+                   VerticalOptions="CenterAndExpand"
+                   HorizontalOptions="FillAndExpand"
+                   HorizontalTextAlignment="Center"
+                   Grid.Row="1"
+                   x:Name="content"/>
+            <Frame Grid.Row="2"
+                   BackgroundColor="#2096F3"
+                   VerticalOptions="End"
+                   HorizontalOptions="End"
+                   Margin="10"
+                   CornerRadius="20"
+                   Padding="0"
+                   HeightRequest="42"
+                   WidthRequest="42"
+                   x:Name="frame">
+                <ImageButton Source="mail"
+                             HeightRequest="20"
+                             VerticalOptions="Center"
+                             BackgroundColor="Transparent"
+                             Clicked="ImageButton_Clicked"/>
+            </Frame>
+            <Ellipse x:Name="CircleIn"
+                     Grid.Row="0"
+                     Grid.RowSpan="3"
+                     Fill="#2096F3"
+                     HeightRequest="150"
+                     WidthRequest="150"
+                     Scale="0"
+                     VerticalOptions="End"
+                     HorizontalOptions="End"
+                     TranslationX="70"
+                     TranslationY="70"/>
+            <Ellipse x:Name="CircleOut"
+                     Grid.Row="0"
+                     Grid.RowSpan="3"
+                     Fill="#2096F3"
+                     HeightRequest="150"
+                     WidthRequest="150"
+                     Scale="15"
+                     VerticalOptions="Start"
+                     HorizontalOptions="Start"
+                     TranslationX="-70"
+                     TranslationY="-70"
+                     IsVisible="false"/>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

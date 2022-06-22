@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="RippleAnimation.Views.CircleAnimationPage"
+             NavigationPage.HasNavigationBar="False">
+    <ContentPage.Content>
+        <Grid RowDefinitions="auto, *"
+              RowSpacing="0">
+            <StackLayout x:Name="ToolBar"
+                         BackgroundColor="#2096F3"
+                         Padding="15">
+                <Label Text="Ripple Animation in Xamarin Forms"
+                       TextColor="White"
+                       FontSize="Medium"
+                       FontAttributes="Bold"
+                       HorizontalOptions="Center"/>
+            </StackLayout>
+            <Button Grid.Row="1"
+                    Text="Back Main Page"
+                    TextTransform="None"
+                    TextColor="White"
+                    FontSize="Subtitle"
+                    FontAttributes="Bold"
+                    CharacterSpacing=".7"
+                    BackgroundColor="#2096F3"
+                    VerticalOptions="Center"
+                    HorizontalOptions="Center"
+                    HeightRequest="75"
+                    WidthRequest="250"
+                    CornerRadius="20"
+                    Margin="0, -62, 0, 0"
+                    x:Name="BtnBack"
+                    Clicked="BtnBack_Clicked"/>
+            <Rectangle BackgroundColor="#2096F3"
+                       Grid.Row="0"
+                       Grid.RowSpan="2"
+                       VerticalOptions="Center"
+                       HorizontalOptions="Center"
+                       HeightRequest="75"
+                       WidthRequest="75"
+                       Scale="0"
+                       x:Name="RectangleIn"/>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
